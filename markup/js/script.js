@@ -1,6 +1,6 @@
 window.onload = function()
 {
-	asideHeight();
+	// asideHeight();
 }
 var asideHeight = function () {
 	var catalog, aside, catalogH; 
